@@ -1,4 +1,4 @@
-# Traveling Website
+<img width="1440" alt="Screenshot 2025-01-15 at 12 22 07 PM" src="https://github.com/user-attachments/assets/9292620a-5b78-47c2-b32d-d20ca713f6cd" /># Traveling Website
 
 Welcome to the Traveling Website! This project showcases a parallax-based responsive travel-themed website, ideal for exploring and discovering new destinations.
 
@@ -16,6 +16,12 @@ link:
 ```
 file:///Users/mehedihasan/4th%20semester/Web%20Development/Traveling%20Website/index.html
 ```
+Pic:
+<img width="1440" alt="Screenshot 2025-01-15 at 12 22 07 PM" src="https://github.com/user-attachments/assets/bb17a125-2a54-4b70-b620-dad3c7492989" />
+<img width="1440" alt="Screenshot 2025-01-15 at 12 22 20 PM" src="https://github.com/user-attachments/assets/2185a33d-0fc9-41ab-8bc0-90ad63a014af" />
+<img width="1440" alt="Screenshot 2025-01-15 at 12 22 29 PM" src="https://github.com/user-attachments/assets/5773277e-6a64-44c7-ba54-4407fcd49376" />
+<img width="1440" alt="Screenshot 2025-01-15 at 12 22 39 PM" src="https://github.com/user-attachments/assets/371adefa-c97e-4c79-90c6-6e5f8f3a3277" />
+
 
 ## Installation
 
